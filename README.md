@@ -1,7 +1,7 @@
 # ROAD-TO-CANDIDATE-MASTER
-CURRENTLY--> 800-1200 RATED PROBLEMS
+**CURRENTLY--> 800-1200 RATED PROBLEMS**
 
-TOPICS LEARNED SO FAR\
- --> Sliding Window\
- --> Fast Exponentation\
- --> Prefix Sum
+_**TOPICS LEARNED SO FAR**_
+ > Sliding Window\
+ > Fast Exponentation\
+ > Prefix Sum
