@@ -1,5 +1,5 @@
 # ROAD-TO-CANDIDATE-MASTER
-**--> 800-1200 RATED PROBLEMS**\
+**-->800-1200 RATED PROBLEMS**\
 **-->CodeChef EASY also**
 
 
