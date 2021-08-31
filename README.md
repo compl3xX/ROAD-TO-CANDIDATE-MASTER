@@ -6,5 +6,5 @@
 _**TOPICS LEARNED SO FAR**_
  > Sliding Window\
  > Fast Exponentation\
- > Prefix Sum
+ > Prefix Sum\
  > Bitmasking
